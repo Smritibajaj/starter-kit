@@ -8,10 +8,22 @@
 
 ## Changed
 
+## [0.0.1] 29 Jan 2023
+
+## Added
+[CreateProject] Added Tailwind
+[CreateProject] ES Lint
+[CreateProject] Tailwind Configuration
+[CreateProject] Added Redux
+
+## Removed
+
+## Changed
+
 ## [0.0.0] 29 Jan 2023
 
 ## Added
-[CreatedProject] React with vite project
+[CreateProject] React with vite project
 
 ## Removed
 
