@@ -43,5 +43,5 @@ Vite provides support for .scss, .sass,.less, .styl and .stylus files, PostCSS, 
 
 # Packages Used
 
-==MUI Base== - MUI Base is a library of unstyled React UI components. These components were extracted from Material UI, and are now available as a standalone package. They feature the same robust engineering but without implementing Material Design.
+**MUI Base** - MUI Base is a library of unstyled React UI components. These components were extracted from Material UI, and are now available as a standalone package. They feature the same robust engineering but without implementing Material Design.
 
